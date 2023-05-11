@@ -1,0 +1,11 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+# Intellij
+.idea
+
+# Info : gradle/wrapper is not ignored purposely
+
